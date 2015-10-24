@@ -1,9 +1,9 @@
 # Conceptual Practice 
 
-##Try the following exercise to test your ability to use object orientation to model apps you use every day.
+**Try the following exercise to test your ability to use object orientation to model apps you use every day.**
 
 
-**Directions:** Come up with at least the properties and two methods for the following:
+*Directions:* Come up with at least the properties and two methods for the following:
 + An Instagram post
 + A Spotify playlist
 + A Song in spotify
