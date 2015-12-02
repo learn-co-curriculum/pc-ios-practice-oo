@@ -15,3 +15,5 @@
 ![raccoon](https://s-media-cache-ak0.pinimg.com/236x/a9/98/5e/a9985ec86564748ee05541401604f4e8.jpg)
 
 **Very funny, Mr. Anti-Computer Joke Raccoon!**
+
+<a href='https://learn.co/lessons/pc-ios-practice-oo' data-visibility='hidden'>View this lesson on Learn.co</a>
