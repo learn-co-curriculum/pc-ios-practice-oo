@@ -16,4 +16,4 @@
 
 **Very funny, Mr. Anti-Computer Joke Raccoon!**
 
-<a href='https://learn.co/lessons/pc-ios-practice-oo' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-ios-practice-oo' title='Conceptual Practice'>Conceptual Practice</a> on Learn.co and start learning to code for free.</p>
